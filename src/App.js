@@ -1,3 +1,4 @@
+import React from "react";
 import SimonGame from "./components/SimonGame";
 function App() {
   return (
