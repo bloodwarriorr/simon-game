@@ -4,4 +4,5 @@ Get ready to watch, remember, repeat! The Simon game is the exciting electronic 
 
 ## Screenshot:
 
-![Game](https://user-images.githubusercontent.com/93253836/215322239-cbd73997-8ed4-455a-906b-c701e7b780c0.PNG)
+![Game](https://user-images.githubusercontent.com/93253836/215322362-a35b9179-67fb-417c-8647-24db38a864ff.PNG)
+
